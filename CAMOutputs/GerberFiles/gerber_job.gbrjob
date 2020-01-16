@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-01-16T13:58:41Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.2.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "v1"
+        },
+        "Owner": "Mwolf2 Mwolf2 <mwolf2@cognify.com>",
+        "Size": {
+            "X": 35.9,
+            "Y": 38
+        }
+    }
+}
